@@ -1,13 +1,5 @@
 # Student-Management-System
-
 A Student Management System to manage data of the Students.
-
-Tech Used : Java, Swing GUI, JDBC<br>
-Database : MySQL<br>
-Software : Eclipse<br>
-Control Panel : xampp, phpmyadmin<br>
-Server : Apache<br>
-
 ## How to run this project?
 
 **Step 1 :** Copy the repo URL by clicking on clone or download.<br><br>
